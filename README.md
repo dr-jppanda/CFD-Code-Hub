@@ -101,7 +101,7 @@ Simulation of red blood cell flow in an unbounded domain.
 - [sandbox]([https://github.com/mdolab/dafoam](https://github.com/aligurbu/SpectralBoundaryIntegralMethod.m](http://basilisk.fr/sandbox/huet/README)
   Implementation of immersed elastic capsules - such as red blood cells - in inertial and non-inertial flow conditions.
 
-## miscellaneous
+## Miscellaneous
 - [MACH-Aero](https://github.com/mdolab/mach-aero)
 Shape optimization of Aircraft Configurations with High fidelity.
 - [twophaseflow](https://github.com/DLR-RY/TwoPhaseFlow)
@@ -112,6 +112,10 @@ Fundamental codes related to CFD that can be included in any graduate level CFD 
 Packages for using Ansys products through Python
 - [ROSS](https://github.com/petrobras/ross)
 Library written in Python for rotordynamic analysis.
+
+## Basic CFD
+- [CFD using Python] (https://bitbucket.org/cdegroot/cfdcourse/src/master/)
+A course on the implicit finite volume method for CFD using Python
 
 
 
