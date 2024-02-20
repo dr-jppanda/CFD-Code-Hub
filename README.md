@@ -59,6 +59,11 @@ Finding-Models-of-Heat-Conduction-via-Machine-Learning
 Solving 2D Heat Equation Numerically using Python
 - [ThermalJAX](https://github.com/tianjuxue/jax-am/tree/main/applications/fem/thermal)
 Thermal simulation
+
+## Fluid Structure Interaction
+- [solids4foam](https://www.solids4foam.com/)
+solids4foam is a toolbox for performing solid mechanics and fluid-solid interaction simulations in OpenFOAM® and foam-extend.
+
 ## multi-physics
 - [sparselizard](https://github.com/halbux/sparselizard/)
 High-performance, multiphysics, hp-adaptive, open source C++ finite element library 
@@ -74,6 +79,8 @@ Control of 2D Rayleigh Benard Convection using Deep Reinforcement Learning with 
 Pytorch-based framework for solving parametric constrained optimization problems, physics-informed system identification.
 
 ## OpenFoam
+- [solids4foam](https://www.solids4foam.com/)
+solids4foam is a toolbox for performing solid mechanics and fluid-solid interaction simulations in OpenFOAM® and foam-extend.
 - [boilingFoam](https://github.com/fmuni/boilingFoam-PUBLIC)
 OpenFOAM-based solvers, libraries, and test cases for simulating boiling flows with VOF using both interFoam and isoAdvector.
 - [turbinesFoam](https://github.com/turbinesFoam/turbinesFoam)
