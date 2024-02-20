@@ -106,17 +106,17 @@ Simulation of red blood cell flow in an unbounded domain.
 Shape optimization of Aircraft Configurations with High fidelity.
 - [twophaseflow](https://github.com/DLR-RY/TwoPhaseFlow)
 TwoPhaseFlow Library adds new surface tension and phase change models to OpenFOAM and provides benchmark cases for verification.
-- [CFD_Julia](https://github.com/surajp92/CFD_Julia)
-Fundamental codes related to CFD that can be included in any graduate level CFD coursework.
 - [PyAnsys](https://docs.pyansys.com/dev/index.html)
 Packages for using Ansys products through Python
 - [ROSS](https://github.com/petrobras/ross)
 Library written in Python for rotordynamic analysis.
 
 ## Basic CFD
-- [CFD using Python] (https://bitbucket.org/cdegroot/cfdcourse/src/master/)
+- [CFD Python1] (https://github.com/barbagroup/CFDPython/tree/master)
+A sequence of Jupyter notebooks featuring the 12 Steps to Navier-Stokes
+- [CFD Python2] (https://bitbucket.org/cdegroot/cfdcourse/src/master/)
 A course on the implicit finite volume method for CFD using Python
-
-
-
-
+- [CFD Python3] (https://github.com/PabloPacheco/pyconduct/tree/main)
+Python version of the codes from Patankar CFD book
+- [CFD_Julia](https://github.com/surajp92/CFD_Julia)
+Fundamental codes related to CFD that can be included in any graduate level CFD coursework.
