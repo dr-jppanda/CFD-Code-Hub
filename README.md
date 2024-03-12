@@ -103,9 +103,9 @@ OpenFOAM solver for additive manufacturing including thermo-elastic-plastic stre
 Discrete Adjoint with OpenFOAM for High-fidelity Multidisciplinary Design Optimization.
 
 ## BioFluid Mechanics
-- [BloodSim](https://github.com/mdolab/dafoam](https://github.com/aligurbu/SpectralBoundaryIntegralMethod.m)
+- [BloodSim](https://github.com/mdolab/dafoam)
 Simulation of red blood cell flow in an unbounded domain.
-- [sandbox]([https://github.com/mdolab/dafoam](https://github.com/aligurbu/SpectralBoundaryIntegralMethod.m](http://basilisk.fr/sandbox/huet/README)
+- [sandbox](http://basilisk.fr/sandbox/huet/README)
   Implementation of immersed elastic capsules - such as red blood cells - in inertial and non-inertial flow conditions.
 
 ## Miscellaneous
