@@ -107,6 +107,9 @@ Discrete Adjoint with OpenFOAM for High-fidelity Multidisciplinary Design Optimi
 Simulation of red blood cell flow in an unbounded domain.
 - [sandbox](http://basilisk.fr/sandbox/huet/README)
   Implementation of immersed elastic capsules - such as red blood cells - in inertial and non-inertial flow conditions.
+## Active Fluids
+- [ActiveFluids](https://github.com/SuryanarayanaMK/Learning_closures/tree/master)
+Simulation of active matter systems (particles or macromolecules) using kinetic theories
 
 ## Miscellaneous
 - [MACH-Aero](https://github.com/mdolab/mach-aero)
