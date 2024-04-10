@@ -49,6 +49,8 @@ Parallel, unstructured, finite-volume based solver for the solution of the Navie
 Open-source CFD-DEM software which uses high-order continuous Galerkin formulations to simulate single and multiphase flows.
 - [ASTR](https://github.com/astr-code/astr)
 A high-order FDM solver for turbulence and combustion
+- [uFVM](https://www.mathworks.com/matlabcentral/fileexchange/70523-ufvm)
+uFVM is an academic CFD tool made for learning purposes with MATLAB. 
 
 ## Heat transfer
 - [Nanothermite](https://github.com/jmreppsUWGrad/2D-Nanothermite)
