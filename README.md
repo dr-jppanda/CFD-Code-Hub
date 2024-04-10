@@ -26,7 +26,7 @@ General purpose Computational Fluid Dynamics (CFD) software.
 - [NaluCFD](https://github.com/NaluCFD/Nalu)
 A generalized unstructured massively parallel low Mach flow code designed to support a variety of open applications of interest.
 - [Trixi](https://github.com/trixi-framework/Trixi.jl)
-Self-gravitating gas dynamics with the compressible Euler equations.[Book](https://link.springer.com/book/10.1007/978-3-319-16874-6)
+Self-gravitating gas dynamics with the compressible Euler equations.
 
 ## Incompressible
 - [Nek5000](https://nek5000.mcs.anl.gov/)
@@ -50,7 +50,7 @@ Open-source CFD-DEM software which uses high-order continuous Galerkin formulati
 - [ASTR](https://github.com/astr-code/astr)
 A high-order FDM solver for turbulence and combustion
 - [uFVM](https://www.mathworks.com/matlabcentral/fileexchange/70523-ufvm)
-uFVM is an academic CFD tool made for learning purposes with MATLAB. 
+uFVM is an academic CFD tool made for learning purposes with MATLAB. [Book](https://link.springer.com/book/10.1007/978-3-319-16874-6)
 
 ## Heat transfer
 - [Nanothermite](https://github.com/jmreppsUWGrad/2D-Nanothermite)
