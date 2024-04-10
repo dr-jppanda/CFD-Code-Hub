@@ -26,7 +26,7 @@ General purpose Computational Fluid Dynamics (CFD) software.
 - [NaluCFD](https://github.com/NaluCFD/Nalu)
 A generalized unstructured massively parallel low Mach flow code designed to support a variety of open applications of interest.
 - [Trixi](https://github.com/trixi-framework/Trixi.jl)
-Self-gravitating gas dynamics with the compressible Euler equations.
+Self-gravitating gas dynamics with the compressible Euler equations.[Book](https://link.springer.com/book/10.1007/978-3-319-16874-6)
 
 ## Incompressible
 - [Nek5000](https://nek5000.mcs.anl.gov/)
