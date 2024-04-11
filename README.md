@@ -82,6 +82,9 @@ An open-source parallel hydrodynamics framework
 Control of 2D Rayleigh Benard Convection using Deep Reinforcement Learning with Tensorforce and Shenfun.
 - [neuromancer](https://github.com/pnnl/neuromancer/tree/master?tab=readme-ov-file)
 Pytorch-based framework for solving parametric constrained optimization problems, physics-informed system identification.
+- [Diffusion-based-Fluid-Super-resolution](https://github.com/BaratiLab/Diffusion-based-Fluid-Super-resolution)
+A Physics-informed Diffusion Model for High-fidelity Flow Field Reconstruction [Paper](https://www.sciencedirect.com/science/article/pii/S0021999123000670)
+
 
 ## OpenFoam
 - [solids4foam](https://www.solids4foam.com/)
