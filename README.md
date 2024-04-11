@@ -1,5 +1,8 @@
 # CFD-Code-Hub
 
+## Molecular Dynamics
+- [LAMMPS](https://github.com/lammps/lammps)
+Large-scale Atomic/Molecular Massively Parallel Simulator
 ## Compressible
 - [SU2](https://github.com/su2code/SU2)
 An Open-Source Suite for Multiphysics Simulation and Design
