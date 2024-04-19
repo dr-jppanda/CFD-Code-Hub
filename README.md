@@ -78,6 +78,8 @@ High-performance, multiphysics, hp-adaptive, open source C++ finite element libr
 An open-source parallel hydrodynamics framework
 
 ## MLCFD
+- [Convolutional Neural Networks for Steady Flow Approximation](https://github.com/loliverhennigh/Steady-State-Flow-With-Neural-Nets)
+  Convolutional Neural Networks for Steady Flow Approximation [Paper](https://dl.acm.org/doi/10.1145/2939672.2939738)
 - [DRLRayleighBenard2D_Control](https://github.com/KTH-FlowAI/DeepReinforcementLearning_RayleighBenard2D_Control)
 Control of 2D Rayleigh Benard Convection using Deep Reinforcement Learning with Tensorforce and Shenfun.
 - [neuromancer](https://github.com/pnnl/neuromancer/tree/master?tab=readme-ov-file)
