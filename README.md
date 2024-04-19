@@ -85,6 +85,10 @@ Pytorch-based framework for solving parametric constrained optimization problems
 - [Diffusion-based-Fluid-Super-resolution](https://github.com/BaratiLab/Diffusion-based-Fluid-Super-resolution)
 A Physics-informed Diffusion Model for High-fidelity Flow Field Reconstruction [Paper](https://www.sciencedirect.com/science/article/pii/S0021999123000670)
 
+## PINN
+- [An expert's guide to training physics-informed neural networks](https://github.com/PredictiveIntelligenceLab/jaxpi)
+  An expert's guide to training physics-informed neural networks [Paper](https://arxiv.org/pdf/2308.08468.pdf)
+
 
 ## OpenFoam
 - [solids4foam](https://www.solids4foam.com/)
