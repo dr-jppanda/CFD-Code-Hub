@@ -18,6 +18,8 @@ Unstructured Compressible Navier Stokes 3D code (UCNS3D).
 Code-generation system for compressible fluid dynamics (CFD) on heterogeneous computing architectures
 - [flexi](https://github.com/flexi-framework/flexi)
 Open Source High-Order Unstructured Discontinuous Galerkin Fluid Dynamics Solver
+- [Galaexi](https://github.com/flexi-framework/galaexi/)
+A high order discontinuous Galerkin framework for compressible flows on GPU systems [Paper](https://arxiv.org/abs/2404.12703)
 - [PyFR](https://github.com/PyFR/PyFR)
 PyFR is an open-source Python based framework for solving advection-diffusion type problems on streaming architectures using the Flux Reconstruction approach of Huynh.
 - [pyBaram](https://gitlab.com/aadl_inha/pyBaram/)
