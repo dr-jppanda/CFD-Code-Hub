@@ -34,6 +34,9 @@ General purpose Computational Fluid Dynamics (CFD) software.
 A generalized unstructured massively parallel low Mach flow code designed to support a variety of open applications of interest.
 - [Trixi](https://github.com/trixi-framework/Trixi.jl)
 Self-gravitating gas dynamics with the compressible Euler equations.
+- [FEST-3D](https://github.com/FEST3D/FEST-3D)
+solve compressible Favre-averaged Navier-Stokes equations using the finite-volume method
+on block-structured grids using MPI-based parallelization.
 
 ## Incompressible
 - [Nek5000](https://nek5000.mcs.anl.gov/)
