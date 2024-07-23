@@ -36,7 +36,7 @@ A generalized unstructured massively parallel low Mach flow code designed to sup
 Self-gravitating gas dynamics with the compressible Euler equations.
 - [FEST-3D](https://github.com/FEST3D/FEST-3D)
 solve compressible Favre-averaged Navier-Stokes equations using the finite-volume method
-on block-structured grids using MPI-based parallelization.
+on block-structured grids using MPI-based parallelization. [Paper](https://www.theoj.org/joss-papers/joss.01555/10.21105.joss.01555.pdf)
 
 ## Incompressible
 - [Nek5000](https://nek5000.mcs.anl.gov/)
