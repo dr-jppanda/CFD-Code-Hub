@@ -163,7 +163,7 @@ Python version of the codes from Patankar CFD book
 Fundamental codes related to CFD that can be included in any graduate level CFD coursework.
 
 ## Geometry and Meshing
-- [GMSH] (https://gmsh.info/)
+- [GMSH](https://gmsh.info/)
 A three-dimensional finite element mesh generator with built-in pre- and post-processing facilities
--[turbodesigner](https://github.com/OpenOrion/turbodesigner/tree/main)
+- [turbodesigner](https://github.com/OpenOrion/turbodesigner/tree/main)
 The open-source turbomachinery designer
