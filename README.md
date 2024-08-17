@@ -3,6 +3,10 @@
 ## Molecular Dynamics
 - [LAMMPS](https://github.com/lammps/lammps)
 Large-scale Atomic/Molecular Massively Parallel Simulator
+## lattice Boltzmann Methods
+- [OpenLB](https://www.openlb.net/)
+Open Source Lattice Boltzmann Code
+  
 ## Compressible
 - [SU2](https://github.com/su2code/SU2)
 An Open-Source Suite for Multiphysics Simulation and Design
@@ -72,6 +76,10 @@ Solving 2D Heat Equation Numerically using Python
 - [ThermalJAX](https://github.com/tianjuxue/jax-am/tree/main/applications/fem/thermal)
 Thermal simulation
 
+## Fire Dynamics Simulation
+- [Fire Dynamics Simulator](https://pages.nist.gov/fds-smv/)
+  Fire Dynamics Simulator (FDS) is a large-eddy simulation (LES) code for low-speed flows, with an emphasis on smoke and heat transport from fires.[Tutorials](https://firedynamics.github.io/LectureFireSimulation/content/modelling/01_general/00_overview.html)
+
 ## Fluid Structure Interaction
 - [solids4foam](https://www.solids4foam.com/)
 solids4foam is a toolbox for performing solid mechanics and fluid-solid interaction simulations in OpenFOAM® and foam-extend.
@@ -122,6 +130,8 @@ OpenFOAM code can simulate the mixing of two metals using Laser Ray Tracing in t
 OpenFOAM solver for additive manufacturing including thermo-elastic-plastic stress analysis.
 - [DAFoam](https://github.com/mdolab/dafoam)
 Discrete Adjoint with OpenFOAM for High-fidelity Multidisciplinary Design Optimization.
+- [boilingFoam] (https://github.com/fmuni/boilingFoam-PUBLIC)
+OpenFOAM-based solvers, libraries, and test cases for simulating boiling flows.
 
 ## BioFluid Mechanics
 - [BloodSim](https://github.com/mdolab/dafoam)
@@ -151,3 +161,9 @@ A course on the implicit finite volume method for CFD using Python
 Python version of the codes from Patankar CFD book
 - [CFD_Julia](https://github.com/surajp92/CFD_Julia)
 Fundamental codes related to CFD that can be included in any graduate level CFD coursework.
+
+## Geometry and Meshing
+- [GMSH] (https://gmsh.info/)
+A three-dimensional finite element mesh generator with built-in pre- and post-processing facilities
+-[turbodesigner](https://github.com/OpenOrion/turbodesigner/tree/main)
+The open-source turbomachinery designer
