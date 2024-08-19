@@ -3,6 +3,11 @@
 ## Molecular Dynamics
 - [LAMMPS](https://github.com/lammps/lammps)
 Large-scale Atomic/Molecular Massively Parallel Simulator
+
+## Direct Simulation of Monte Carlo
+- [SPARTA](https://github.com/sparta/sparta)
+Stochastic PArallel Rarefied-gas Time-accurate Analyzer
+
 ## lattice Boltzmann Methods
 - [OpenLB](https://www.openlb.net/)
 Open Source Lattice Boltzmann Code
@@ -167,3 +172,8 @@ Fundamental codes related to CFD that can be included in any graduate level CFD 
 A three-dimensional finite element mesh generator with built-in pre- and post-processing facilities
 - [turbodesigner](https://github.com/OpenOrion/turbodesigner/tree/main)
 The open-source turbomachinery designer
+
+## Solid Mechanics
+- [CALCULIX](https://www.calculix.de/)
+A Free Software Three-Dimensional Structural Finite Element Program
+
