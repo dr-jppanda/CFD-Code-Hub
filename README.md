@@ -50,6 +50,8 @@ on block-structured grids using MPI-based parallelization. [Paper](https://www.t
 ## Incompressible
 - [Nek5000](https://nek5000.mcs.anl.gov/)
 Incompressible spectral element Navier-Stokes solver.
+- [SIMSON](https://github.com/KTH-Nek5000/SIMSON)
+A Pseudo-Spectral Solver for Incompressible Boundary Layer Flows
 - [CaNS](https://nek5000.mcs.anl.gov/)
 A code for fast, massively-parallel direct numerical simulations (DNS) of canonical flows.
 - [Incompact3d](https://github.com/xcompact3d/Incompact3d)
