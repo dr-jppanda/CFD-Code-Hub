@@ -115,6 +115,8 @@ A Physics-informed Diffusion Model for High-fidelity Flow Field Reconstruction [
 
 
 ## OpenFoam
+- [SplashFOAM](https://github.com/mohamedalysayed/SplashFOAM/tree/main)
+SplashFOAM is an intuitive GUI pre-processor designed to simplify the use of OpenFOAM. It provides users with a streamlined interface to set up their CFD simulations.
 - [solids4foam](https://www.solids4foam.com/)
 solids4foam is a toolbox for performing solid mechanics and fluid-solid interaction simulations in OpenFOAM® and foam-extend.
 - [boilingFoam](https://github.com/fmuni/boilingFoam-PUBLIC)
