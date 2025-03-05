@@ -11,6 +11,8 @@ Stochastic PArallel Rarefied-gas Time-accurate Analyzer
 ## lattice Boltzmann Methods
 - [OpenLB](https://www.openlb.net/)
 Open Source Lattice Boltzmann Code
+- [coolbm](https://gitlab.coria-cfd.fr/lbm/coolbm)
+COllaborative Open-source Lattice Boltzmann Method) is a multi-CPU/GPU code, for the simulation of single and multi-component multi-phase flow problems [Paper](https://arxiv.org/abs/2502.12955)
   
 ## Compressible
 - [SU2](https://github.com/su2code/SU2)
