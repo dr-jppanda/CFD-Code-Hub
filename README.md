@@ -91,6 +91,10 @@ Thermal simulation
 - [Fire Dynamics Simulator](https://pages.nist.gov/fds-smv/)
   Fire Dynamics Simulator (FDS) is a large-eddy simulation (LES) code for low-speed flows, with an emphasis on smoke and heat transport from fires.[Tutorials](https://firedynamics.github.io/LectureFireSimulation/content/modelling/01_general/00_overview.html)
 
+## Wind Turbine Simulation
+- [Exawind](https://github.com/Exawind/nalu-wind)
+  Solver for wind farm simulations targeting exascale computational platforms.[Paper](https://onlinelibrary.wiley.com/doi/10.1002/we.2886)
+
 ## Fluid Structure Interaction
 - [solids4foam](https://www.solids4foam.com/)
 solids4foam is a toolbox for performing solid mechanics and fluid-solid interaction simulations in OpenFOAM® and foam-extend.
