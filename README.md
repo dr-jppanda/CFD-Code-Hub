@@ -149,6 +149,8 @@ OpenFOAM solver for additive manufacturing including thermo-elastic-plastic stre
 Discrete Adjoint with OpenFOAM for High-fidelity Multidisciplinary Design Optimization.
 - [boilingFoam] (https://github.com/fmuni/boilingFoam-PUBLIC)
 OpenFOAM-based solvers, libraries, and test cases for simulating boiling flows.
+- [CFDEM-Coupling] (https://github.com/CFDEMproject/CFDEMcoupling-PUBLIC)
+CFDEM®coupling toolbox, released by DCS Computing GmbH. [Paper]([https://arxiv.org/pdf/2308.08468.pdf](https://www.sciencedirect.com/science/article/pii/S1674200112001356)
 
 ## BioFluid Mechanics
 - [BloodSim](https://github.com/mdolab/dafoam)
