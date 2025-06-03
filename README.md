@@ -50,6 +50,8 @@ solve compressible Favre-averaged Navier-Stokes equations using the finite-volum
 on block-structured grids using MPI-based parallelization. [Paper](https://www.theoj.org/joss-papers/joss.01555/10.21105.joss.01555.pdf)
 - [PeleLM](https://github.com/AMReX-Combustion/PeleLM)
   An adaptive mesh hydrodynamics simulation code for low Mach number reacting flows.[Documentation](https://pelelm.readthedocs.io/en/latest/index.html)
+- [adflow](https://mdolab-adflow.readthedocs-hosted.com/en/latest/install.html)
+  ADflow: An Open-Source Computational Fluid Dynamics Solver for Aerodynamic and Multidisciplinary Optimization. [Paper](https://arc.aiaa.org/doi/10.2514/1.I010796)
 
 ## Incompressible
 - [Nek5000](https://nek5000.mcs.anl.gov/)
