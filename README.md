@@ -190,7 +190,7 @@ A three-dimensional finite element mesh generator with built-in pre- and post-pr
 The open-source turbomachinery designer
 
 ## Ansys Fluent 
-- [pyfluent]([https://gmsh.info/](https://github.com/ansys/pyfluent)
+- [pyfluent](https://github.com/ansys/pyfluent)
 Pythonic interface to Ansys Fluent
 
 ## Solid Mechanics
