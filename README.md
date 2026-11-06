@@ -153,6 +153,8 @@ Discrete Adjoint with OpenFOAM for High-fidelity Multidisciplinary Design Optimi
 OpenFOAM-based solvers, libraries, and test cases for simulating boiling flows.
 - [CFDEM-Coupling](https://github.com/CFDEMproject/CFDEMcoupling-PUBLIC)
 CFDEM®coupling toolbox, released by DCS Computing GmbH. [Paper](https://www.sciencedirect.com/science/article/pii/S1674200112001356)
+- [decomposeParFast](https://github.com/timofeymukha/decomposeParFast)
+Fast decomposePar for collated output.
 
 ## BioFluid Mechanics
 - [BloodSim](https://github.com/mdolab/dafoam)
